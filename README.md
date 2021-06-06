@@ -1,1 +1,3 @@
 # CommitLint
+
+## Commits Basics
