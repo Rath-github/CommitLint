@@ -1,3 +1,6 @@
 # CommitLint
 
 ## Commits Basics
+
+
+## Case
